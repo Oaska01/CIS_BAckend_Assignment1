@@ -1,0 +1,14 @@
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\bin\Debug\net6.0\Assignment1.exe
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\bin\Debug\net6.0\Assignment1.deps.json
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\bin\Debug\net6.0\Assignment1.dll
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\bin\Debug\net6.0\Assignment1.pdb
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\obj\Debug\net6.0\Assignment1.dll
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\obj\Debug\net6.0\refint\Assignment1.dll
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\obj\Debug\net6.0\Assignment1.pdb
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\CIS\backend\code\assignment1\ex1\obj\Debug\net6.0\ref\Assignment1.dll
